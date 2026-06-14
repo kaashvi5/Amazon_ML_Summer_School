@@ -177,7 +177,7 @@ The recommendation engine successfully identifies venues with similar accessibil
 
 ## Author
 
-**Cash**
+**Kaashvi Gupta**
 
 Machine Learning Enthusiast | AWS Learner | Software Development Student
 
